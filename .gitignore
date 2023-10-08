@@ -27,6 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-untitled1\.idea\
+.idea/
 out/
 *.iml
